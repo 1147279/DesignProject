@@ -1,0 +1,17 @@
+https://www.marineinsight.com/naval-architecture/roll-stabilization-systems/
+
+https://www.youtube.com/watch?v=UlB67fa567c
+
+
+SENSORS:
+
+https://www.nautikaris.com/product/imu-108-roll-pitch-heave-surge-sway-motion-sensor/
+
+https://www.sbg-systems.com/applications/ship-motion-monitoring/
+
+https://www.km.kongsberg.com/ks/web/nokbg0240.nsf/AllWeb/61118F926CD5A6E5C125700B0033CF55?OpenDocument
+
+
+MATLAB:
+
+http://www.marinecontrol.org/
